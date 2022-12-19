@@ -12,8 +12,8 @@
             "email": "meye4606@stthomas.edu"
         },
         {
-            "name": "",
-            "email": ""
+            "name": "Anisa Jeylani",
+            "email": "jeyl6715@stthomas.edu"
         }
     ],
     "main": "server.js",
@@ -22,8 +22,12 @@
         "url": "stpaulcrime"
     },
     "dependencies": {
+        "axios": "^1.2.1",
         "cors": "^2.8.5",
         "express": "^4.18.2",
+        "i": "^0.3.7",
+        "npm": "^9.2.0",
+        "or": "^0.2.0",
         "sqlite3": "^5.1.2"
     }
 }
