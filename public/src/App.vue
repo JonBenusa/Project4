@@ -256,7 +256,7 @@ export default {
                 </p>
             </div>
         </section>
-        <nav class="navbar" role="navigation" aria-label="main navigation">
+                    <div class = "navbar-item has-text-primary" v-on:click="((view === 'about') ? 'selected' : 'unselected')" @click="viewAbout">About</div>
             <div class="navbar-brand">
                 <!-- navbar items and navbar burger... -->
             </div>
